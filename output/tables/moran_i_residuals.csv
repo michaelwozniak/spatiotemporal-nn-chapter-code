@@ -1,0 +1,7 @@
+source,statistic,p_value
+mean_residual_field,0.9871496664584505,0
+per_day_median,0.9686278061442395,NA
+per_day_iqr_low,0.9564163096848829,NA
+per_day_iqr_high,0.9797221192292255,NA
+per_day_min,0.85314893306638,NA
+per_day_max,0.9949752729164465,NA
