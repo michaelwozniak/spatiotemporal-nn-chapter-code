@@ -1,8 +1,8 @@
 # Spatio-Temporal Modelling with Deep Learning — companion code & data
 
 Reproducibility materials for the book chapter **"Spatio-Temporal Modelling with
-Deep Learning: Forecasting tomorrow's PM2.5 field over Poland on a 110 × 60 grid"**
-by Michał Woźniak (ORCID [0000-0001-7313-864X](https://orcid.org/0000-0001-7313-864X)).
+Deep Learning. Forecasting tomorrow's PM2.5 field over Poland on a 110 × 60 grid"**
+by Michał Woźniak (ORCID [0000-0001-7313-864X](https://orcid.org/0000-0001-7313-864X)) and Maria Kubara (ORCID [0000-0002-8768-8391](https://orcid.org/0000-0002-8768-8391)).
 
 The project forecasts the **daily PM2.5 field over Poland** one day ahead on a
 110 × 60, 0.1° CAMS grid (2018–2022), in R using `torch`/`luz`. It compares
